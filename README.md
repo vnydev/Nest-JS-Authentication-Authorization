@@ -26,6 +26,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+# Nest-JS-Authentication-Authorization
+Node, Nest.js, Passport, MongoDB, Bcrypt, JWT
+
 ## Installation
 
 ```bash
