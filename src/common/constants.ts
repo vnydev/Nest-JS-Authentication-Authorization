@@ -1,0 +1,8 @@
+export const USER_EXIST = 'This user is already exist.'
+export const SERVICE_UNAVAILABLE = 'service unavailable.'
+export const USER_REGISTER = 'User successfully register.'
+export const USER_NOT_FOUND = 'This user is not exist, please register and then sign-in.'
+export const UNAUTHORIZED_USER = 'Unauthorize: Incorrect password.'
+export const INTERNAL_SERVER_ERROR = 'Internal server error.'
+export const JWT_TOKEN_SECRETE = 'special auth token'
+export const JWT_TOKEN_EXPIRE_TIME = '300s'
